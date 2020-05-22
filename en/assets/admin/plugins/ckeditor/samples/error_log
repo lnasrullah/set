@@ -1,0 +1,2 @@
+[09-Jul-2018 08:27:30 UTC] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/jcmadmin/public_html/en/assets/admin/plugins/ckeditor/samples/assets/posteddata.php on line 38
+[09-Jul-2018 08:27:30 UTC] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/jcmadmin/public_html/en/assets/admin/plugins/ckeditor/samples/assets/posteddata.php on line 38

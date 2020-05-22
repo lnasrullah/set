@@ -1,0 +1,75 @@
+/* CSS Document */
+
+.row
+{
+	display:block;
+	clear:both;
+	width:100%;
+}
+
+.span1, .span2, .span3, .span4, .span5, .span6, .span7, .span8, .span9, .span10, .span11, .span12
+{
+	display:inline;
+	padding:0 0 0 4%;
+	float:left;
+}
+
+.span1
+{
+	width:4%;
+}
+
+.span2
+{
+	width:12%;
+}
+
+.span3
+{
+	width:20%;
+}
+
+.span4
+{
+	width:28%;
+}
+
+.span5
+{
+	width:36%;
+}
+
+.span6
+{
+	width:44%;
+}
+
+.span7
+{
+	width:52%;
+}
+
+.span8
+{
+	width:60%;
+}
+
+.span9
+{
+	width:68%;
+}
+
+.span10
+{
+	width:76%;
+}
+
+.span11
+{
+	width:84%;
+}
+
+.span12
+{
+	width:92%;
+}
